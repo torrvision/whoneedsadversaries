@@ -3,7 +3,7 @@
 Code implementing the experiments described in the NeurIPS 2018 paper "With Friends Like These, Who Needs Adversaries?", by Saumya Jetley*, Nicholas A. Lord*, and Philip H.S. Torr.  
 Illustrates some fundamental connections between how nets classify and how they're vulnerable to adversarial attack.  
 
-<img src="adversarial_traces.PNG">
+<img src="adversarial_traces.png">
 
 Read the [paper](https://papers.nips.cc/paper/8273-with-friends-like-these-who-needs-adversaries) and watch the [brief video](https://www.youtube.com/watch?v=hOQdyInhYi0).
 
