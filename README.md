@@ -4,7 +4,8 @@ Code implementing the experiments described in the NeurIPS 2018 paper "With Frie
 <img src="adversarial_traces.png">
 
 Our study illustrates some fundamental connections between how nets classify and how they're vulnerable to adversarial attack.
-d1 and d2 above are sample adversarial directions or, correspondingly, the directions associated with the idenitification of classes `frog' and `cat' respectively.
+
+`d1` and `d2` above are sample adversarial directions or, correspondingly, the directions associated with the idenitification of classes `frog` and `cat` respectively.
 
 Read the [paper](https://papers.nips.cc/paper/8273-with-friends-like-these-who-needs-adversaries) and watch the [brief video](https://www.youtube.com/watch?v=hOQdyInhYi0).
 
