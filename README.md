@@ -10,7 +10,8 @@ Watch the [brief video](https://www.youtube.com/watch?v=hOQdyInhYi0), and read t
 ## Attributions
 
 - Includes two MNIST loader files, `loadMNISTLabels.m` and `loadMNISTImages.m`, downloaded [here](http://ufldl.stanford.edu/wiki/resources/mnistHelper.zip).
-- Includes a version of DeepFool with a one-line modification to implement subspace confinement as described in the paper: see the two files in the `projected_DeepFool` subproject folder. The modification is noted in the source. The original authorship of the source files in this subproject is otherwise as detailed in those files; original repository version [here](https://github.com/LTS4/DeepFool/tree/master/MATLAB).  
+- Includes a version of DeepFool with a one-line modification to implement subspace confinement as described in the paper: see the two files in the `projected_DeepFool` subproject folder. The modification is noted in the source files, whose original authorship is as detailed in those files.
+The original repository version is [here](https://github.com/LTS4/DeepFool/tree/master/MATLAB).  
 The associated publication is "DeepFool: a simple and accurate method to fool deep neural networks"; by Seyed-Mohsen Moosavi-Dezfooli, Alhussein Fawzi, and Pascal Frossard; in CVPR 2016.
 - The `curvature_analysis_matconvnet` subproject is based on research code provided personally by Seyed-Mohsen Moosavi-Dezfooli and Alhussein Fawzi. It has been ported to use MatConvNet, and utility functions have been reimplemented. It otherwise contains light modifications, but the essential functionality is preserved. See comments in the source.  
 This subproject pertains to the paper "Robustness of Classifiers to Universal Perturbations: A Geometric Perspective"; by Seyed-Mohsen Moosavi-Dezfooli*, Alhussein Fawzi*, Omar Fawzi, Pascal Frossard, and Stefano Soatto; in ICLR 2018. That work should be cited if this subproject or anything that depends on it is used.
